@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Building a Notion Clone with Next.js Stripe Node.js Shadcn UI and TypeScript</h1>
 
-## Getting Started
+<p align="center"> <a href="https://notion.sammi.app/"><img src="https://camo.githubusercontent.com/41d7ebb2b509a9ecfa7cf1862f37cb14d63cf3631391923426b7faa7546b4438/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f675641544d647a41514e69484f4439726f6c534f"> </a></p>
 
-First, run the development server:
+<p id="description">Unlock the potential of modern web development by enrolling in our comprehensive course on building a Notion clone using cutting-edge technologies. This hands-on project-based learning experience will guide you through the entire process of creating a feature-rich collaborative note-taking application equipped with the latest web development tools and frameworks.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>🚀 Demo</h2>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://notion.sammi.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h2>🧐 Features</h2>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Here're some of the project's best features:
 
-## Learn More
+- Real-time database 🔗
+- Recover deleted files 🔄📄
+- Stripe Integration
+- Subscription plan
+- Light and Dark mode 🌓
+- Blocknote
+- Expandable sidebar ➡️🔀⬅️
+- Infinite children documents 🌲
 
-To learn more about Next.js, take a look at the following resources:
+<h2>💻 Built with</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies used in the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- ReactJs
+- TypeScript
+- Stripe
+- Convex
+- Clerk
+- NextJs App routes
+- Custom HOOKS
+- TailwindCSS
+- Shadcn UI
+- Edge store
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
